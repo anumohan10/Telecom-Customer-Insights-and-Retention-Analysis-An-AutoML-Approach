@@ -46,10 +46,6 @@ This section dives deep into the analytical techniques and model evaluations:
 - **Regularization:** Explores the impact of regularization in model performance tuning.
 - **Hyperparameter Tuning Analysis:** Details the process and outcomes of hyperparameter optimization to achieve optimal model performance.
 
-## 🤝 Contributing
-
-We welcome contributions, improvements, and feedback from the community. Feel free to fork the repository, make your changes, and submit a pull request.
-
 ## 📜 License
 
 This project is open-sourced under the MIT License. See `LICENSE` for more information.
